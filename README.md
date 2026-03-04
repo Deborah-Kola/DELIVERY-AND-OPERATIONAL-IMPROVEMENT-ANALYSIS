@@ -2,7 +2,7 @@
 
 ![image alt](https://github.com/Deborah-Kola/DELIVERY-AND-OPERATINAL-IMPROVEMENT-ANALYSIS/blob/main/URBANHAUL%20IMAGES/URBANHAUL%20LOGISTICS.png?raw=true)
 ___
-An Excel Case Study
+An Excel Case Study, Analyzing rider's performance and operational overview for a logistics company.
 ___
 
 ## BY DEBORAH KOLA, TEMITOPE
