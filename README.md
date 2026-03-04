@@ -69,7 +69,39 @@ __Service Quality Trends__:
 
  ![image alt](https://github.com/Deborah-Kola/DELIVERY-AND-OPERATINAL-IMPROVEMENT-ANALYSIS/blob/main/URBANHAUL%20IMAGES/URBANHAUL%20RIDER%20PERFORMANCE.png?raw=true)
 
- ![image alt]()
+ ![image alt](https://github.com/Deborah-Kola/DELIVERY-AND-OPERATINAL-IMPROVEMENT-ANALYSIS/blob/main/URBANHAUL%20IMAGES/URBANHAUL%20OPS.OVERVIEW.png?raw=true)
+
+ ___
+
+# INSIGHTS
+
+**Operational Overview**:
+- Revenue & Efficiency: Fragile item deliveries in New York (morning shift, motorcycle) generated $350K revenue across 17K deliveries, with an average earning of $1.40 per km.
+- Customer Ratings: Ratings fluctuated throughout the year, peaking mid‑year (6.0 in Aug–Sep) but dipping in Oct (5.4), suggesting seasonal or workload‑related service quality challenges.
+- Delivery Priorities: A majority of deliveries were low priority (61%), yet high‑priority deliveries (37%) contributed significantly to revenue, highlighting the importance of balancing urgency with efficiency.
+- Regional Efficiency: States like California, Texas, and New York showed strong operational efficiency, indicating potential focus areas for scaling.
+- Rider Distribution: Top performers (e.g., Abigail Nelson with a perfect 10.0 rating) contrast sharply with poorly rated riders (e.g., Tyler Garcia at 2.9), revealing uneven service quality across the workforce.
+
+__Rider Case Study: Aaron Lopez__
+- Shift Performance: Aaron’s ratings across shifts (6.0–6.3) are consistent but not exceptional, showing reliability without standout performance.
+- Vehicle Utilization: His earnings per km with a car (1.7) are competitive but similar to other vehicle types, suggesting no clear advantage in his current assignment.
+- Customer Ratings: Overall rating of 6.2 is slightly above average but below top performers, indicating room for improvement in customer satisfaction.
+- Burnout Risk: Dashboard flags Aaron as low risk, meaning his workload is balanced — but his middling ratings suggest engagement or service quality could be improved.
+
+# RECOMMENDATION
+ __Operational Level__:
+- Prioritize High‑Revenue Deliveries: Allocate more resources to high‑priority categories since they drive significant revenue.
+- Address Service Quality Variability: Implement training and incentive programs to reduce dips in customer ratings and improve consistency.
+- Scale Efficient Regions: Focus growth strategies on states with strong operational efficiency while investigating weaker regions for improvement opportunities.
+  
+**Rider Level** (Illustrated by Aaron Lopez) :
+- Customer Interaction Coaching: Provide Aaron with targeted coaching to raise his customer ratings closer to top performers.
+- Vehicle Assignment Optimization: Test assigning Aaron to shorter‑distance deliveries with bikes or motorcycles to see if efficiency improves compared to car usage.
+- Engagement & Incentives: Since burnout risk is low, Aaron could be incentivized to take on more challenging routes, balancing workload while boosting ratings.
+
+
+
+
   
 
 
