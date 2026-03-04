@@ -61,5 +61,14 @@ __Delivery Categories & Revenue Drivers__:
 __Service Quality Trends__:
 - Are customer ratings trending upward or downward across the platform?
 
+ ___
+
+ # DATA VISUALIZATION
+
+ This dashboard has a double report page.
+
+ ![image alt]()
+  
+
 
 
