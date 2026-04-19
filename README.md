@@ -5,7 +5,7 @@ ___
 An Excel Case Study, Analyzing rider's performance and operational overview for a logistics company.
 ___
 
-## BY DEBORAH KOLA, TEMITOPE
+## BY DEBORAH OLUFIADE, TEMITOPE
 ___
 
 # INTRODUCTION
